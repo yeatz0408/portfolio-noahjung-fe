@@ -96,7 +96,7 @@ const Career = () => {
   const projectHistoryData: ProjectHistoryData[] = [
     {
       name: 'B2B Search Engine',
-      period: '2023.07 ~ 2024.06',
+      period: '2023.08 ~ 2024.07',
       employer: 'RSP Corp',
       scope: 'Requirement definition, Design, Implementation, Test',
       background:
@@ -113,14 +113,15 @@ const Career = () => {
     },
     {
       name: 'Tire Sales Management',
-      period: '2024.07 ~ 2026.03',
+      period: '2024.08 ~ 2026.03',
       employer: 'EBA Technologies',
       scope:
         'Requirement definition, Design, Implementation, Test, Maintenance and Operation',
       background:
         'Global tire manufacturer business launch in the Philippines.',
       features: [
-        'Solely implemented the entire B2B web ordering system',
+        'Solely took charge of a small B2B web ordering system as a project lead',
+        'Assigned tasks to teammembers as a project lead',
         'System synchronization with the main management system',
         'End-to-end testing',
         'Infrastructure and DevOps management',
@@ -134,6 +135,7 @@ const Career = () => {
       scope: 'Design, Implementation, Test',
       background:
         'Development and enhancement of a popular Japanese smartphone payment service operated by a leading telecommunications provider.',
+      features: ['currently on-going'],
     },
   ];
 
