@@ -112,7 +112,7 @@ const Career = () => {
       ],
     },
     {
-      name: 'Tire Sales Management',
+      name: 'B2B Tire Online Store',
       period: '2024.08 ~ 2026.03',
       employer: 'EBA Technologies',
       scope:
